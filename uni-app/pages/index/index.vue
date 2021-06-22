@@ -3,7 +3,7 @@
 		<view class="cont head">
 			 <view class="wrap">
 				 <view>
-					 111
+					 {{111}}
 				 </view>
 			 </view>
 		</view>

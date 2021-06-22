@@ -1,1 +1,1 @@
-<view class="container home"><view class="cont head"><view class="wrap"><view>111</view></view></view></view>
+<view class="container home"><view class="cont head"><view class="wrap"><view>{{''+111+''}}</view></view></view></view>
