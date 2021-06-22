@@ -8,10 +8,18 @@
 		},
 		onHide: function() {
 			console.log('App Hide')
+		},
+		onError:function(){
+			console.log("出现异常",err)
 		}
 	}
 </script>
 
 <style>
 	/*每个页面公共css */
+	@import url("static/fonts/iconfont.css");
+	.box1 { background-color: pink; }
 </style>
+
+
+

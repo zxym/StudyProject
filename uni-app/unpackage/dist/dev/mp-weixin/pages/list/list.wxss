@@ -1,0 +1,5 @@
+
+.box-item{
+	height: 400rpx; line-height: 300px;
+}
+

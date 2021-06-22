@@ -17,6 +17,18 @@
 				href: 'https://uniapp.dcloud.io/component/README?id=uniui'
 			}
 		},
+		onLoad(options){
+			console.log("页面加载了",options)
+		},
+		onShow(){
+			console.log("页面显示了")
+		},
+		onReady(){
+			console.log("页面初次渲染完成了")
+		},
+		onHide(){
+			console.log("页面隐藏了")
+		},
 		methods: {
 
 		}

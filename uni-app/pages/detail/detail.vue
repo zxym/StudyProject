@@ -30,6 +30,7 @@
 			<image src="http://destiny001.gitee.io/image/cxk.gif"></image>
 			<image src="http://destiny001.gitee.io/image/cxk.gif" mode="aspectFit"></image>
 			<image src="http://destiny001.gitee.io/image/cxk.gif" mode="aspectFill"></image>
+			
 		</view>
 </template>
 

@@ -1,0 +1,1 @@
+<view><view>这是列表页面</view><block wx:for="{{list}}" wx:for-item="item" wx:for-index="__i0__"><view class="box-item">{{''+item+''}}</view></block><button data-event-opts="{{[['tap',[['pullDown',['$event']]]]]}}" bindtap="__e">下拉刷新</button></view>
