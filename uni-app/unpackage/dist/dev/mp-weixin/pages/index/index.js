@@ -144,14 +144,14 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 //
 //
 //
+//
+//
+//
 var _default =
 {
   data: function data() {
     return {
-      title: 'Hello' };
-
-  },
-  onLoad: function onLoad() {
+      href: 'https://uniapp.dcloud.io/component/README?id=uniui' };
 
   },
   methods: {} };exports.default = _default;

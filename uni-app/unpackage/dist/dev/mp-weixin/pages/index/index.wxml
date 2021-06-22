@@ -1,1 +1,1 @@
-<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title}}</text></view></view>
+<view class="container home"><view class="cont head"><view class="wrap"><view>111</view></view></view></view>
