@@ -1,6 +1,9 @@
 {
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
+			"path":"pages/contact/contact"
+		},
+		{
 			"path":"pages/list/list",
 			"style":{
 				"enablePullDownRefresh":true,
@@ -17,8 +20,9 @@
 		{
 			"path":"pages/uni-style/uni-style"
 		},
+		
 		{
-			"path":"pages/contact/contact"
+			"path":"pages/test/test"
 		},
 		{
 			"path":"pages/message/message",

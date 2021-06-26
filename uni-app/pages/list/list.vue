@@ -1,5 +1,6 @@
 <template>
 	<view>
+		<button @click="get">发送get请求</button>
 		<view>这是列表页面</view>
 		<view class="box-item" v-for="item in list">
 			{{item}}
@@ -31,6 +32,14 @@
 		methods:{
 			pullDown(){
 				uni.startPullDownRefresh();
+			},
+			get(){
+				uni.request({
+					url:"http://localhost:9999/",
+					success(res){
+						console.log(res);
+					}
+				})
 			}
 		}
 	}
